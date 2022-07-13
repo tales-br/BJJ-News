@@ -1,4 +1,4 @@
-package me.dio.soccernews.ui.favorites;
+package me.dio.bjjnews.ui.favorites;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,8 +10,8 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import me.dio.soccernews.databinding.FragmentFavoritesBinding;
-import me.dio.soccernews.ui.adapters.NewsAdapter;
+import me.dio.bjjnews.databinding.FragmentFavoritesBinding;
+import me.dio.bjjnews.ui.adapters.NewsAdapter;
 
 public class FavoritesFragment extends Fragment {
 

@@ -1,4 +1,4 @@
-package me.dio.soccernews.ui.news;
+package me.dio.bjjnews.ui.news;
 
 import android.os.AsyncTask;
 
@@ -9,8 +9,8 @@ import androidx.lifecycle.ViewModel;
 
 import java.util.List;
 
-import me.dio.soccernews.data.SoccerNewsRepository;
-import me.dio.soccernews.domain.News;
+import me.dio.bjjnews.data.SoccerNewsRepository;
+import me.dio.bjjnews.domain.News;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

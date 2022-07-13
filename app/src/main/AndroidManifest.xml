@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="me.dio.soccernews">
+    package="me.dio.bjjnews">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".App"
+        android:name="me.dio.bjjnews.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SoccerNews">
+        android:theme="@style/Theme.BjjNews">
         <activity
-            android:name=".ui.MainActivity"
+            android:name="me.dio.bjjnews.ui.MainActivity"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>
