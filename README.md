@@ -1,4 +1,4 @@
-# Soccer News App
+# Soccer News App (ORIGINAL)
 
 App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher). Este repositório foi organizado em algumas branches que representam as implementações realizadas durante os seguintes conteúdos/vídeos:
 
@@ -8,3 +8,27 @@ App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher). Este re
     - [release/abstraindo-dominio-de-apps-android-nativos-com-java](https://github.com/digitalinnovationone/soccer-news-app/tree/release/abstraindo-dominio-de-apps-android-nativos-com-java)
 1. [Consumo de APIs e Persistência de Dados Locais em Apps Android](https://docs.google.com/presentation/d/1FrsBIZ5v7scAZwzUfmQK7wPLl-NRU-LA/edit?usp=sharing&ouid=107980611913120181649&rtpof=true&sd=true) (Slides)
     - [release/consumo-de-apis-e-persistencia-de-dados-locais](https://github.com/digitalinnovationone/soccer-news-app/tree/release/consumo-de-apis-e-persistencia-de-dados-locais)
+
+## Bjj News (FORK EDITADO)
+
+### To dos:
+
+#### Identidade Visual:
+
+***
+- [' '] Paleta de cores
+- [' '] Logo
+- [' '] Ícones
+
+#### API
+
+***
+- [' '] Criar repositório
+- [' '] Povoar repositório com os dados que serão consumidos pelo app
+
+### Integração com o Firebase
+
+***
+- [' '] Criar registro na plataforma
+- [' '] Inserir dependências crashlytics
+- [' '] Inserir dependências analytics
