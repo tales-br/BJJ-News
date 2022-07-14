@@ -29,6 +29,6 @@ App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher). Este re
 ### Integração com o Firebase
 
 ***
-- [` `] Criar registro na plataforma
-- [` `] Inserir dependências crashlytics
-- [` `] Inserir dependências analytics
+- [`X`] Criar registro na plataforma
+- [`X`] Inserir dependências crashlytics
+- [`X`] Inserir dependências analytics
