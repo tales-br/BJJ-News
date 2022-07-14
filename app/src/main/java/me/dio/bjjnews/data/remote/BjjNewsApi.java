@@ -6,7 +6,7 @@ import me.dio.bjjnews.domain.News;
 import retrofit2.Call;
 import retrofit2.http.GET;
 
-public interface SoccerNewsApi {
+public interface BjjNewsApi {
 
     @GET("news.json")
     Call<List<News>> getNews();
