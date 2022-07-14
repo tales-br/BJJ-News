@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936240022142",
+    "project_id": "bjj-news",
+    "storage_bucket": "bjj-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936240022142:android:ed8fa1fe8a84969366ce2f",
+        "android_client_info": {
+          "package_name": "me.dio.bjjnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936240022142-q2ouqnplk2n36ads8qgni95jri1680dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWYCUhDps8Ju9p9Tjmaz6cPF61sVq_HMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936240022142-q2ouqnplk2n36ads8qgni95jri1680dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
