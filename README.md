@@ -16,19 +16,19 @@ App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher). Este re
 #### Identidade Visual:
 
 ***
-- [' '] Paleta de cores
-- [' '] Logo
-- [' '] Ícones
+- [`X`] Paleta de cores
+- [`X`] Logo
+- [`X`] Ícones
 
 #### API
 
 ***
-- [' '] Criar repositório
-- [' '] Povoar repositório com os dados que serão consumidos pelo app
+- [`X`] Criar repositório
+- [`X`] Povoar repositório com os dados que serão consumidos pelo app
 
 ### Integração com o Firebase
 
 ***
-- [' '] Criar registro na plataforma
-- [' '] Inserir dependências crashlytics
-- [' '] Inserir dependências analytics
+- [` `] Criar registro na plataforma
+- [` `] Inserir dependências crashlytics
+- [` `] Inserir dependências analytics

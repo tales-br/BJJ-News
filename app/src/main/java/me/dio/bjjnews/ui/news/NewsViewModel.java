@@ -18,7 +18,7 @@ import retrofit2.Response;
 public class NewsViewModel extends ViewModel {
 
     public enum State {
-        DOING, DONE, ERROR;
+        DOING, DONE, ERROR
     }
 
     private final MutableLiveData<List<News>> news = new MutableLiveData<>();
